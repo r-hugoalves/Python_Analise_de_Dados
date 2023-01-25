@@ -6,7 +6,7 @@ Para melhores fins de aprendizado, segue a ordem:
 
 Variáveis e Tipos de Dados (Concluído) <br>
 Estrutura de Dados (Concluído) <br>
-Fluxo Condicional e Repetição <br>
+Fluxo Condicional e Repetição (Concluído) <br>
 Arquivos e Funções <br>
 Programação Funcional <br>
 Programação Orientada a Objetos <br>
