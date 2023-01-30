@@ -8,7 +8,7 @@ Variáveis e Tipos de Dados (Concluído) <br>
 Estrutura de Dados (Concluído) <br>
 Fluxo Condicional e Repetição (Concluído) <br>
 Arquivos e Funções (Concluído) <br>
-Programação Funcional <br>
+Programação Funcional (Concluído) <br>
 Programação Orientada a Objetos <br>
 Módulos e Pacotes <br>
 Tratamento de Erros <br>
