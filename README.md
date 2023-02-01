@@ -10,7 +10,7 @@ Fluxo Condicional e Repetição (Concluído) <br>
 Arquivos e Funções (Concluído) <br>
 Programação Funcional (Concluído) <br>
 Programação Orientada a Objetos (Concluído) <br>
-Módulos e Pacotes <br>
+Módulos e Pacotes (Concluído) <br>
 Tratamento de Erros <br>
 Scripting <br>
 
