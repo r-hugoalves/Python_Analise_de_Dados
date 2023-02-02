@@ -11,6 +11,6 @@ Arquivos e Funções (Concluído) <br>
 Programação Funcional (Concluído) <br>
 Programação Orientada a Objetos (Concluído) <br>
 Módulos e Pacotes (Concluído) <br>
-Tratamento de Erros <br>
+Tratamento de Erros (Concluído) <br>
 Scripting <br>
 
